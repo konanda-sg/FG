@@ -587,7 +587,13 @@
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
-         {
+        {
+            "name": "🦄环球斯玛特",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://gc.gt.tc/c/%E7%8E%AF%E7%90%83%E6%96%AF%E7%8E%9B%E7%89%B9.txt"
+        }, 
+        {
             "name": "🦄Gather",
             "type": 0,
             "ua": "okhttp",
